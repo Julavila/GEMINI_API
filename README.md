@@ -58,6 +58,13 @@ Para probar la conexión con el modelo Gemini y recibir una respuesta:
 python app_gemini.py
 ```
 
+
+El resultado de la consulta será el siguiente:
+
+<img width="1111" height="1010" alt="image" src="https://github.com/user-attachments/assets/b2fd70db-2e6b-44b4-bf9e-1ccc7f847b31" />
+
+
+
 ## 📁 Estructura del Proyecto
 
 - `app_gemini.py`: Script principal que conecta con el modelo `gemini-3-flash-preview`.
